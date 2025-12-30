@@ -1,0 +1,9 @@
+We are looking for an internship candidate who has strong programming and data skills.
+
+The intern should be comfortable working with Python, SQL and Pandas for data processing tasks.
+
+Experience with Flask and APIs is preferred, as the role involves building small web tools and dashboards.
+
+Knowledge of Machine Learning concepts such as Regression or SVM will be an added advantage.
+
+Good communication and willingness to learn are important for this role.

@@ -1,0 +1,48 @@
+AI/ML Intern (Paid Internship)
+
+
+
+Company: SkillzenLoop
+Work Mode: Remote
+Duration: 1–3 Months
+Stipend: ₹15,000 per month
+Type: Full-Time Internship
+Future Scope: Internship Certificate + Full-Time Opportunity Based on Performance
+
+
+About SkillzenLoop
+
+
+SkillzenLoop is an innovative technology company focused on Artificial Intelligence, Machine Learning, and advanced analytics solutions. We create intelligent automation systems and future-ready tools that help businesses leverage data to its fullest potential. Our internship program aims to train young talent on real industry challenges.
+
+
+Role Overview
+
+
+We are hiring an enthusiastic AI/ML Intern who loves working with data, experimenting with models, and applying algorithms to solve real-world problems. You will collaborate with our AI team to design, train, and optimize machine learning models.
+
+
+Key Responsibilities
+• Assist in building and testing ML and AI models for practical use cases
+• Perform data preprocessing, feature selection, and model validation
+• Work with Python libraries like TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy
+• Conduct experiments with algorithms and measure performance metrics
+• Create visual reports and summaries of insights obtained
+• Contribute to projects in NLP, Computer Vision, or Predictive Analytics
+• Ensure documentation of code, datasets, and model lifecycle
+
+
+Requirements
+• Pursuing or recently graduated in AI/ML, Data Science, Computer Science, Engineering, or related fields
+• Strong basics in Machine Learning algorithms & mathematics
+• Hands-on experience with Python for model development
+• Familiarity with Jupyter Notebook, data visualization tools, and statistics
+• Analytical mindset with eagerness to explore new technologies
+• Good problem-solving attitude and communication skills
+
+
+Benefits & Perks
+• Monthly stipend ₹15,000
+• Work on real AI/ML projects used in business applications
+• Mentorship from senior ML Engineers & Data Scientists
+• Internship completion certificate

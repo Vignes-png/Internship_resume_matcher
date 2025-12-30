@@ -1,0 +1,80 @@
+{
+  "Programming": [
+    "python",
+    "c",
+    "c++",
+    "java",
+    "javascript",
+    "bash",
+    "shell",
+    "perl",
+    "assembly"
+  ],
+
+  "Data": [
+    "pandas",
+    "numpy",
+    "sql",
+    "excel",
+    "matplotlib",
+    "power bi",
+    "tableau",
+    "eda",
+    "exploratory data analysis",
+    "data cleaning",
+    "data preprocessing",
+    "data validation",
+    "feature engineering"
+  ],
+
+  "Machine Learning": [
+    "machine learning",
+    "scikit-learn",
+    "regression",
+    "linear regression",
+    "logistic regression",
+    "svm",
+    "support vector machine",
+    "classification",
+    "clustering",
+    "model validation",
+    "feature selection",
+    "predictive analytics"
+  ],
+
+  "Deep Learning": [
+    "deep learning",
+    "tensorflow",
+    "keras",
+    "pytorch",
+    "neural networks",
+    "computer vision",
+    "nlp",
+    "natural language processing"
+  ],
+
+  "Web & Backend": [
+    "flask",
+    "api",
+    "rest",
+    "rest api",
+    "backend",
+    "web development"
+  ],
+
+  "Databases": [
+    "mysql",
+    "postgresql",
+    "mongodb"
+  ],
+
+  "Tools": [
+    "git",
+    "github",
+    "jupyter",
+    "intellij",
+    "notebook",
+    "visualization",
+    "docker"
+  ]
+}

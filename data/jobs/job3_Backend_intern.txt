@@ -1,0 +1,31 @@
+About the job
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role And Responsibilities
+
+The intern will be assigned to a sub-team within our Product Engineering support team of z Hardware or the z/OS support team that supports the service structure and serviceability of our mainframe product set. This position will be to help design and execute productivity aids required for the infrastructure. Some programming skills are required and a basic engineering understanding to perform this role. Computer Science skills are highly desired and preferred however an electrical engineering background would also be beneficial. The intern will have the opportunity to experience firsthand what a mainframe customer expects from IBM as well as the technical complexity of this machine.
+
+Preferred Education
+
+Bachelor's Degree
+
+Required Technical And Professional Expertise
+
+Passion to pursue career path in Computer Engineering or Computer Science
+
+ Fundamental education in software design and/or test
+ Computer Architecture
+ Knowledge of any programming languages: C, C++, Java, Assembly
+ Good debugging skills
+ Scripting knowledge: Python, JavaScript, Perl, Bash, etc
+ Strong Communication Skills
+
+Preferred Technical And Professional Experience
+
+Knowledge of Mainframes
+
+ Knowledge of Computer Networking
+ Knowledge of web and mobile application development
+ Tools (Git/GitHub, IntelliJ, etc.)
