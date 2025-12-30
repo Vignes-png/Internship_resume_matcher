@@ -33,10 +33,11 @@ python -m streamlit run src/app_streamlit.py
 - /data — skill dictionary & sample jobs
 - requirements.txt — dependencies
 
-### 🖥️ Preview
+### 🖥️ Small Preview
 <img width="1775" height="865" alt="image" src="https://github.com/user-attachments/assets/b1124125-c219-47eb-948f-d29d0cc410a3" />
 <img width="1615" height="837" alt="image" src="https://github.com/user-attachments/assets/605bc578-b85a-4d37-a48f-3a743e82ad5c" />
 <img width="1363" height="835" alt="image" src="https://github.com/user-attachments/assets/1fd4b9ae-e710-4d45-8402-0189024629ae" />
+
 
 
 
